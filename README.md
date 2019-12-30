@@ -19,5 +19,7 @@ eqn = {'eqn_type':equation name,
 For more information on the algorithms described, please check the following paper:
 
 ```
-Hasan, A., Pereira, J. M., Ravier, R., Farsiu, S., & Tarokh, V. (2019). Learning Partial Differential Equations from Data Using Neural Networks. arXiv preprint arXiv:1910.10262.
+Hasan, A., Pereira, J. M., Ravier, R., Farsiu, S., & Tarokh, V. (2019). 
+Learning Partial Differential Equations from Data Using Neural Networks. 
+arXiv preprint arXiv:1910.10262.
 ```
