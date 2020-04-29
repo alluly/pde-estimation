@@ -16,10 +16,10 @@ eqn = {'eqn_type':equation name,
         'err_vec': vector to determine accuracy of estimation}
 ```
 
-For more information on the algorithms described, please check the following paper:
+For more information on the algorithms described or if the code was useful, please check or cite the following paper:
 
 ```
-Hasan, A., Pereira, J. M., Ravier, R., Farsiu, S., & Tarokh, V. (2019). 
-Learning Partial Differential Equations from Data Using Neural Networks. 
-arXiv preprint arXiv:1910.10262.
+Hasan, A., Pereira, J. M., Ravier, R., Farsiu, S., & Tarokh, V. (2020, May). 
+Learning Partial Differential Equations From Data Using Neural Networks. 
+In ICASSP 2020-2020 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP) (pp. 3962-3966). IEEE.
 ```
